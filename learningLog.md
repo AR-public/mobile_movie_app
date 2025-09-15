@@ -1,1 +1,1 @@
-- NativeWind: 
+- NativeWind: {extending themes in tailwind.config.js}
