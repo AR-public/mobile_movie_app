@@ -1,1 +1,3 @@
 - NativeWind: {extending themes in tailwind.config.js}
+- Navigation groups e.g. (tabs)
+- layout Screen.Stack
